@@ -6,7 +6,7 @@
 >
 > ------
 >
-> ##### Study-ing
+> #### Study-ing
 >
 > - Java
 > - MySQL
