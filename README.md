@@ -20,6 +20,7 @@
 > **Back-end**
 >
 > - Servlet
+> - JSP
 >
 > ------
 >
